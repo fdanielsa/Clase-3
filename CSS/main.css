@@ -1,3 +1,13 @@
 body {
 	background-color: red;
 }
+#nat {
+	color: green;	
+}
+li.person {
+	color: orange;
+}
+.person {
+	color: blue;
+
+}

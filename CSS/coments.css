@@ -1,0 +1,22 @@
+body {
+	font-style: "Helvetica", "arial", sans-serif;
+}
+.comment{
+}
+.comment img {
+	width: 30px;
+}
+.comment h4 span {
+	color: grey;
+}
+
+.comment button {
+	background-color: black;
+	color: white;
+	border: none;
+}
+
+.comment button:hover {
+	background-color: white;
+	color: black;
+}
